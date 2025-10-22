@@ -13,6 +13,7 @@ const CTASection: React.FC = () => {
         <div className="mt-10">
           <WhatsAppButton text="SIM, QUERO EMAGRECER AGORA!" variant="secondary" />
         </div>
+        <p className="mt-4 text-lg font-semibold text-emerald-100">A partir de R$197 com frete grátis!</p>
         <p className="mt-4 text-sm text-emerald-200">Clique no botão e seja redirecionada para o grupo VIP.</p>
       </div>
     </section>
